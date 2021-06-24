@@ -1,0 +1,13 @@
+{
+    "name":"",
+    "description":"",
+    "keywords":[],
+    "lincence":"",
+    "type":"",
+    "require":{},
+    "require-dev":{},
+    "autoload":{
+        "classmap":[],
+        "psr-4":{"app\\":"app//"}
+    }
+}

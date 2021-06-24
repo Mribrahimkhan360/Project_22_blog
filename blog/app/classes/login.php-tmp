@@ -1,0 +1,9 @@
+<?
+namespace App\classes;
+class Login
+{
+	public function adminLoginCheck(){
+		echo '<pre>';
+		print_r($data)
+	}
+}
